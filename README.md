@@ -1,9 +1,7 @@
 <div align="center">
 <img src='./images/TalentoLogo.png' width=30%>
-    <h1># Predicción de los Precios de Airbnb Usando Modelos de Machine Learning</h1>
+    <h1>Predicción de los Precios de Airbnb Usando Modelos de Machine Learning</h1>
 </div>
-
-# Predicción de los Precios de Airbnb Usando Modelos de Machine Learning
 
 Cristian Iván Parra Mesa
 2 de junio de 2024
