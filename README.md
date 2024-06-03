@@ -56,4 +56,4 @@ Las transformaciones realizadas en los datos incluyen:
 
 ### Código en Python utilizado para la limpieza y transformación
 
-El código en Python utilizado para la limpieza y transformación de los datos se encuentra en el siguiente enlace: [Notebook EDA Y ETL]()
+El código en Python utilizado para la limpieza y transformación de los datos se encuentra en el siguiente enlace: [Notebook EDA Y ETL](https://github.com/Ivan2125/Proyecto-Final-Bootcamp-TalentoTech/blob/main/EDA-ETL-dataset.ipynb)
