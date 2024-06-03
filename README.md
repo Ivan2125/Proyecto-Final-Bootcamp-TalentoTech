@@ -4,7 +4,8 @@
 </div>
 
 Cristian Iván Parra Mesa
-2 de junio de 2024
+
+Bogotá - 2 de junio de 2024
 
 ---
 
@@ -48,6 +49,7 @@ Para asegurar la calidad y la precisión de los modelos predictivos, se han apli
 ### Transformaciones realizadas en los datos
 
 Las transformaciones realizadas en los datos incluyen:
+
 - Conversión de variables categóricas a variables dummy.
 - Normalización y estandarización de variables numéricas.
 - Agrupación de características con poca frecuencia.
